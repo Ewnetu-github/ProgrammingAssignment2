@@ -30,7 +30,7 @@ cacheSolve <- function(x, ...) {
 #-------------------------------------------
 # checking my functions 
 #-------------------------------------------
-# creating a matrix
+# creating an invertible matrix
 v1 <- c(3, 2, 5)
 v2 <- c(2, 3, 2)
 v3 <- c(5, 2, 4)
